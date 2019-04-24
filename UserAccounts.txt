@@ -1,0 +1,66 @@
+Lomar Lilly
+admin
+password1
+Administrator
+=======================================
+Lomar Lilly
+lomar
+password2
+STAFF
+Computing
+FENC
+=======================================
+password3
+password3
+password2
+STUDENT
+999
+
+=======================================
+James Bond
+1621555
+password1
+STUDENT
+555
+
+=======================================
+John Doe
+1622fgh
+password1
+STUDENT
+fgh
+
+=======================================
+Darrly Brown
+darryl
+password1
+STAFF
+SCIT
+FENC
+=======================================
+
+Camille Thomas
+1623555
+password1
+STUDENT
+555
+
+=======================================
+
+Sammy null
+Sam
+password1
+STAFF
+COBAM
+SBA
+01/11/2016
+=======================================
+
+password4
+password4
+password2
+STAFF
+FOBE
+SBLM
+10/11/2016
+=======================================
